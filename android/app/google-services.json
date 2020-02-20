@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "904794305606",
+    "firebase_url": "https://boneandroid-da1c2.firebaseio.com",
+    "project_id": "boneandroid-da1c2",
+    "storage_bucket": "boneandroid-da1c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904794305606:android:81fc8d9eb864e9d4",
+        "android_client_info": {
+          "package_name": "com.bone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904794305606-524nl76s6v0559rbsiuua6nvsmevat1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFwT8aDWFmuA2D6XKlIo3d4vE8fQZgRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
