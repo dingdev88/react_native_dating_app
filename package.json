@@ -29,7 +29,7 @@
     "react-native-calendars": "^1.22.0",
     "react-native-check-box": "^2.1.7",
     "react-native-config": "^0.11.7",
-    "react-native-fast-image": "^5.4.0",
+    "react-native-fast-image": "^8.3.0",
     "react-native-firebase": "^5.2.5",
     "react-native-gesture-handler": "^1.2.1",
     "react-native-gifted-chat": "^0.7.2",
